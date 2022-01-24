@@ -1,1 +1,2 @@
 # 2048game
+Built on a provided basic scaffold layout to create the core gameplay of the 2048 game using the python programming language in a solo project. Utilized various data structure manipulations to add user input movements and number combinations. Created functions for various fundamentals of the game, such as a game over, winning game, and movements in general.
